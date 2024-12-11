@@ -1,0 +1,9 @@
+---
+title: "Uniform & Pareto"
+---
+
+## Uniform distribution
+
+$$Q(u)=u$$
+
+## Pareto distribution

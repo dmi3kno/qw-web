@@ -1,0 +1,96 @@
+---
+title: "Burr"
+---
+
+## Type I
+
+Burr-I distribution is [uniform](unifpareto.qmd) distribution.
+
+## Type II
+
+Burr-II distribution is [generalized logistic](logistic.qmd) distribution
+
+## Type III
+
+Burr III is called inverse Burr distribution or Dagum I type distribution
+
+$$
+Q(u)=\left(u^{-\frac{1}{\beta}}-1\right)^{-\frac{1}{\alpha}}
+$$
+Related to it is Dagum II (and Dagum III)
+
+$$
+Q(u)=\left[\left(\frac{u-\delta}{1-\delta}\right)^{-\frac{1}{\beta }}-1\right]^{-\frac{1}{\alpha }}
+$$
+
+In Dagum II $0\leq\delta\leq1$ and in Dagum III $\delta<0$.
+
+## Type IV
+
+Burr IV is bathtub-shaped distribution with QF
+
+$$
+Q(u)=\frac{\alpha}{1+\left(u^{-\frac{1}{\beta}}-1\right)^\alpha}
+$$
+
+## Type V
+
+Burr V is arctan-transformed distribution
+
+$$
+Q(u)=\arctan\left[-\ln\left(\frac{u^{-\frac{1}{\beta}}-1}{\alpha}\right)\right]
+$$
+
+## Type VI
+
+Burr VI is asinh transformed distribution
+
+$$
+Q(u)=\text{arcsinh}\left[-\frac{\ln\left(u^{-\frac{1}{\beta}}-1\right)}{\alpha}\right]
+$$
+
+## Type VII
+
+Burr VII is arctanh transformed distribution
+
+$$
+Q(u)=\text{arctanh}\left[(2u)^{\frac{1}{\alpha}}-1\right]
+$$
+
+## Type VIII
+
+Burr VIII is log-tan transformed distribution
+
+$$
+Q(u)=\ln\left[\tan\left(\frac{\pi }{2}u^{\frac{1}{\alpha}}\right)\right]
+$$
+
+## Type IX
+
+Burr IX is a log-transformed distribution
+
+$$
+Q(u)=\ln\left[\left(1+\frac{u}{\alpha(1-u)}\right)^{\frac{1}{\beta}}\right]
+$$
+
+## Type X
+
+Burr X is a square root of exponential
+
+$$
+Q(u)=\sqrt{-\ln(1-u^{\frac{1}{\alpha}})}
+$$
+
+## Type XI
+
+Burr XI is not invertible
+
+## Type XII
+
+Burr XII is known as Pareto-IV distribution or the Singh–Maddala distribution
+
+$$
+Q(u)=\left[(1-u)^{-\frac{1}{\alpha}}-1 \right]^{\frac{1}{\beta}}
+$$
+
+Burr XII is the inverse of Burr III.

@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "unifpareto.html",
+    "href": "unifpareto.html",
+    "title": "Uniform & Pareto",
+    "section": "",
+    "text": "\\[Q(u)=u\\]"
+  },
+  {
+    "objectID": "unifpareto.html#uniform-distribution",
+    "href": "unifpareto.html#uniform-distribution",
+    "title": "Uniform & Pareto",
+    "section": "",
+    "text": "\\[Q(u)=u\\]"
+  },
+  {
+    "objectID": "unifpareto.html#pareto-distribution",
+    "href": "unifpareto.html#pareto-distribution",
+    "title": "Uniform & Pareto",
+    "section": "Pareto distribution",
+    "text": "Pareto distribution"
+  },
+  {
+    "objectID": "logistic.html",
+    "href": "logistic.html",
+    "title": "Logistic",
+    "section": "",
+    "text": "\\[Q(u)=\\ln\\left(\\frac{u}{1-u}\\right)\\]"
+  },
+  {
+    "objectID": "logistic.html#logistic-distribution",
+    "href": "logistic.html#logistic-distribution",
+    "title": "Logistic",
+    "section": "",
+    "text": "\\[Q(u)=\\ln\\left(\\frac{u}{1-u}\\right)\\]"
+  },
+  {
+    "objectID": "logistic.html#generalized-logistic-distribution",
+    "href": "logistic.html#generalized-logistic-distribution",
+    "title": "Logistic",
+    "section": "Generalized logistic distribution",
+    "text": "Generalized logistic distribution\nGeneralized Logistic Type I is also known as Burr II distribution\n\\[\nQ(u)=-\\ln\\left(\\frac{u^{\\frac{1}{\\delta}}}{u^{\\frac{1}{\\delta}}-1}\\right)\n\\]\nGeneralized Logistic Type II\n\\[\nQ(u)=-\\ln\\left(\\frac{1-(1-u)^{\\frac{1}{\\alpha}}}{(1-u)^{\\frac{1}{\\alpha}}}\\right)\n\\]"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "qw-web",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "burr.html",
+    "href": "burr.html",
+    "title": "Burr",
+    "section": "",
+    "text": "Burr-I distribution is uniform distribution."
+  },
+  {
+    "objectID": "burr.html#type-i",
+    "href": "burr.html#type-i",
+    "title": "Burr",
+    "section": "",
+    "text": "Burr-I distribution is uniform distribution."
+  },
+  {
+    "objectID": "burr.html#type-ii",
+    "href": "burr.html#type-ii",
+    "title": "Burr",
+    "section": "Type II",
+    "text": "Type II\nBurr-II distribution is generalized logistic distribution"
+  },
+  {
+    "objectID": "burr.html#type-iii",
+    "href": "burr.html#type-iii",
+    "title": "Burr",
+    "section": "Type III",
+    "text": "Type III\nBurr III is called inverse Burr distribution or Dagum I type distribution\n\\[\nQ(u)=\\left(u^{-\\frac{1}{\\beta}}-1\\right)^{-\\frac{1}{\\alpha}}\n\\] Related to it is Dagum II (and Dagum III)\n\\[\nQ(u)=\\left[\\left(\\frac{u-\\delta}{1-\\delta}\\right)^{-\\frac{1}{\\beta }}-1\\right]^{-\\frac{1}{\\alpha }}\n\\]\nIn Dagum II \\(0\\leq\\delta\\leq1\\) and in Dagum III \\(\\delta&lt;0\\)."
+  },
+  {
+    "objectID": "burr.html#type-iv",
+    "href": "burr.html#type-iv",
+    "title": "Burr",
+    "section": "Type IV",
+    "text": "Type IV\nBurr IV is bathtub-shaped distribution with QF\n\\[\nQ(u)=\\frac{\\alpha}{1+\\left(u^{-\\frac{1}{\\beta}}-1\\right)^\\alpha}\n\\]"
+  },
+  {
+    "objectID": "burr.html#type-v",
+    "href": "burr.html#type-v",
+    "title": "Burr",
+    "section": "Type V",
+    "text": "Type V\nBurr V is arctan-transformed distribution\n\\[\nQ(u)=\\arctan\\left[-\\ln\\left(\\frac{u^{-\\frac{1}{\\beta}}-1}{\\alpha}\\right)\\right]\n\\]"
+  },
+  {
+    "objectID": "burr.html#type-vi",
+    "href": "burr.html#type-vi",
+    "title": "Burr",
+    "section": "Type VI",
+    "text": "Type VI\nBurr VI is asinh transformed distribution\n\\[\nQ(u)=\\text{arcsinh}\\left[-\\frac{\\ln\\left(u^{-\\frac{1}{\\beta}}-1\\right)}{\\alpha}\\right]\n\\]"
+  },
+  {
+    "objectID": "burr.html#type-vii",
+    "href": "burr.html#type-vii",
+    "title": "Burr",
+    "section": "Type VII",
+    "text": "Type VII\nBurr VII is arctanh transformed distribution\n\\[\nQ(u)=\\text{arctanh}\\left[(2u)^{\\frac{1}{\\alpha}}-1\\right]\n\\]"
+  },
+  {
+    "objectID": "burr.html#type-viii",
+    "href": "burr.html#type-viii",
+    "title": "Burr",
+    "section": "Type VIII",
+    "text": "Type VIII\nBurr VIII is log-tan transformed distribution\n\\[\nQ(u)=\\ln\\left[\\tan\\left(\\frac{\\pi }{2}u^{\\frac{1}{\\alpha}}\\right)\\right]\n\\]"
+  },
+  {
+    "objectID": "burr.html#type-ix",
+    "href": "burr.html#type-ix",
+    "title": "Burr",
+    "section": "Type IX",
+    "text": "Type IX\nBurr IX is a log-transformed distribution\n\\[\nQ(u)=\\ln\\left[\\left(1+\\frac{u}{\\alpha(1-u)}\\right)^{\\frac{1}{\\beta}}\\right]\n\\]"
+  },
+  {
+    "objectID": "burr.html#type-x",
+    "href": "burr.html#type-x",
+    "title": "Burr",
+    "section": "Type X",
+    "text": "Type X\nBurr X is a square root of exponential\n\\[\nQ(u)=\\sqrt{-\\ln(1-u^{\\frac{1}{\\alpha}})}\n\\]"
+  },
+  {
+    "objectID": "burr.html#type-xi",
+    "href": "burr.html#type-xi",
+    "title": "Burr",
+    "section": "Type XI",
+    "text": "Type XI\nBurr XI is not invertible"
+  },
+  {
+    "objectID": "burr.html#type-xii",
+    "href": "burr.html#type-xii",
+    "title": "Burr",
+    "section": "Type XII",
+    "text": "Type XII\nBurr XII is known as Pareto-IV distribution or the Singh–Maddala distribution\n\\[\nQ(u)=\\left[(1-u)^{-\\frac{1}{\\alpha}}-1 \\right]^{\\frac{1}{\\beta}}\n\\]\nBurr XII is the inverse of Burr III."
+  }
+]

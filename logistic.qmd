@@ -1,0 +1,21 @@
+---
+title: "Logistic"
+---
+
+## Logistic distribution
+
+$$Q(u)=\ln\left(\frac{u}{1-u}\right)$$
+
+## Generalized logistic distribution
+
+Generalized Logistic Type I is also known as Burr II distribution
+
+$$
+Q(u)=-\ln\left(\frac{u^{\frac{1}{\delta}}}{u^{\frac{1}{\delta}}-1}\right)
+$$
+
+Generalized Logistic Type II
+
+$$
+Q(u)=-\ln\left(\frac{1-(1-u)^{\frac{1}{\alpha}}}{(1-u)^{\frac{1}{\alpha}}}\right)
+$$
